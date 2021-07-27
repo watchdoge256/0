@@ -27,6 +27,6 @@ Python, node js, C, C++?
 ## Product architecture
 The goal is to group the most common car parameters into the table and based on that create abstraction layer between http server and different cars/interfaces.
 
-Id|Car parameter name|Marke|Common parameter name|Output format|
-- |-                 |-    |       -             |     -       |
-0 |Water temperature |Fiat Coupe|Engine Water temperature|%f|
+|Id|Car parameter name|Marke     |Common parameter name   |Output format|
+|- |-                 |-         |       -                |     -       |
+|0|Water temperature |Fiat Coupe|Engine Water temperature|%f           |
